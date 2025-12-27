@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Flask-CORS
+Authlib
+requests
+gunicorn
+psycopg2-binary
